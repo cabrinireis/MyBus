@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import AppTable from '@/components/tableList.vue'
+import AppTable from './tableList.vue'
 export default {
   components: {
     AppTable,
